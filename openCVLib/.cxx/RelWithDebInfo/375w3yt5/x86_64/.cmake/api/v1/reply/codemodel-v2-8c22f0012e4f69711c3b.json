@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_jni_shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_jni_shared-RelWithDebInfo-1e2a080305b78ffa2e78.json",
+					"name" : "opencv_jni_shared",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Michael Ho/yukkei-workspace/LooMotion/LoomoVital/openCVLib/.cxx/RelWithDebInfo/375w3yt5/x86_64",
+		"source" : "C:/Users/Michael Ho/yukkei-workspace/LooMotion/LoomoVital/openCVLib/libcxx_helper"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

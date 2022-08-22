@@ -1,0 +1,7 @@
+Executable : C:\Enviroment\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Michael Ho\yukkei-workspace\OpenCV\LoomoVital\openCVLib\.cxx\Debug\6666134s\x86_64
+opencv_jni_shared
+jvmArgs : 
+

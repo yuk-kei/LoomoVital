@@ -1,0 +1,3 @@
+C:/Users/Michael Ho/yukkei-workspace/OpenCV/LoomoVital/app/.cxx/Debug/70336q3m/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/Michael Ho/yukkei-workspace/OpenCV/LoomoVital/app/.cxx/Debug/70336q3m/armeabi-v7a/CMakeFiles/loomovital.dir
+C:/Users/Michael Ho/yukkei-workspace/OpenCV/LoomoVital/app/.cxx/Debug/70336q3m/armeabi-v7a/CMakeFiles/edit_cache.dir

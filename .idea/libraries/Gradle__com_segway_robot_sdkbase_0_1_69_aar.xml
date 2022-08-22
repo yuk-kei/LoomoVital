@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.segway.robot:sdkbase:0.1.69@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Enviroment/gradle-7.4.2/caches/transforms-3/3f782e945046f6df2f8fd0c9f3701c72/transformed/jetified-sdkbase-0.1.69/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3f782e945046f6df2f8fd0c9f3701c72/transformed/jetified-sdkbase-0.1.69/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3f782e945046f6df2f8fd0c9f3701c72/transformed/jetified-sdkbase-0.1.69/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3f782e945046f6df2f8fd0c9f3701c72/transformed/jetified-sdkbase-0.1.69/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/sdkbase/0.1.69/6104de461e055e740efa7d769f5166af7a588afe/sdkbase-0.1.69-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/sdkbase/0.1.69/16ec3b91d374785be1a8e311c5a29ba70e290da3/sdkbase-0.1.69-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

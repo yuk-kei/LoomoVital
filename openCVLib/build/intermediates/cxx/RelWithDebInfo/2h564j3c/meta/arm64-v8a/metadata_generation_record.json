@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -859923596
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\.cxx\\RelWithDebInfo\\2h564j3c\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 688687257
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\.cxx\\RelWithDebInfo\\2h564j3c\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2122347181
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\.cxx\\RelWithDebInfo\\2h564j3c\\arm64-v8a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -303317679
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1382944350
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\.cxx\\RelWithDebInfo\\2h564j3c\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 645467919
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\.cxx\\RelWithDebInfo\\2h564j3c\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 937126019
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Enviroment\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Enviroment\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Enviroment\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Enviroment\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Enviroment\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\build\\intermediates\\cxx\\RelWithDebInfo\\2h564j3c\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\build\\intermediates\\cxx\\RelWithDebInfo\\2h564j3c\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-BC:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\.cxx\\RelWithDebInfo\\2h564j3c\\arm64-v8a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1209193480
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Enviroment\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Enviroment\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Enviroment\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Enviroment\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Enviroment\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\build\\intermediates\\cxx\\RelWithDebInfo\\2h564j3c\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\build\\intermediates\\cxx\\RelWithDebInfo\\2h564j3c\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-BC:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\.cxx\\RelWithDebInfo\\2h564j3c\\arm64-v8a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1635826135
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\.cxx\\RelWithDebInfo\\2h564j3c\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 133624761
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1695290601
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\.cxx\\RelWithDebInfo\\2h564j3c\\arm64-v8a\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1310394525
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 242782483
+  }
+]

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.segway.robot:basic-class:0.6.234@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a045a5f240a05e7411529abb4c623841/transformed/jetified-basic-class-0.6.234/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a045a5f240a05e7411529abb4c623841/transformed/jetified-basic-class-0.6.234/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a045a5f240a05e7411529abb4c623841/transformed/jetified-basic-class-0.6.234/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/basic-class/0.6.234/7b73116a36ebb60d4f231e9207817f7e83a1942/basic-class-0.6.234-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/basic-class/0.6.234/9e4c6ee29cd46ba4259212750650c353283ca475/basic-class-0.6.234-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

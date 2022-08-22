@@ -1,0 +1,7 @@
+Executable : C:\Enviroment\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Michael Ho\yukkei-workspace\LooMotion\LoomoVital\app\.cxx\Debug\5ur27423\x86_64
+loomovital
+jvmArgs : 
+

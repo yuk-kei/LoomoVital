@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Michael Ho/yukkei-workspace/LooMotion/LoomoVital/app/.cxx/RelWithDebInfo/1r2q6e3b/x86",
+  "command": "C:\\Enviroment\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Enviroment/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Enviroment/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dloomovital_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\loomovital.dir\\native-lib.cpp.o -c \"C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\app\\src\\main\\cpp\\native-lib.cpp\"",
+  "file": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

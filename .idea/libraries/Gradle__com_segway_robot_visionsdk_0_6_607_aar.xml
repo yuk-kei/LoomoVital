@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.segway.robot:visionsdk:0.6.607@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b1b10aa97aca149ae32bdf26ef6c1d19/transformed/jetified-visionsdk-0.6.607/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Enviroment/gradle-7.4.2/caches/transforms-3/4e4e712f6109f6515935494b316e157b/transformed/jetified-visionsdk-0.6.607/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1b10aa97aca149ae32bdf26ef6c1d19/transformed/jetified-visionsdk-0.6.607/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1b10aa97aca149ae32bdf26ef6c1d19/transformed/jetified-visionsdk-0.6.607/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b1b10aa97aca149ae32bdf26ef6c1d19/transformed/jetified-visionsdk-0.6.607/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/visionsdk/0.6.607/4eabd340ef7924f427b3ae2b91373b09a8b15496/visionsdk-0.6.607-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.segway.robot/visionsdk/0.6.607/60f05bd24b66d7b2a3992071c28ae84932a6e660/visionsdk-0.6.607-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

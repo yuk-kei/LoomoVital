@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":openCVLib" external.linked.project.path="$MODULE_DIR$/../../../openCVLib" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="LoomoVital" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="native-android-gradle" name="Native-Android-Gradle">
+      <configuration>
+        <option name="SELECTED_ABI" value="x86" />
+        <option name="SELECTED_VARIANT" value="debug" />
+      </configuration>
+    </facet>
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":openCVLib" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="7.1.2" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="7.1.2" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../openCVLib/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../openCVLib/build/intermediates/compile_r_class_jar/debug/R.jar;C:/Enviroment/gradle-7.4.2/caches/transforms-3/f6231bf41ae931adee64d554593c6169/transformed/jetified-kotlin-stdlib-1.4.21.jar;C:/Enviroment/gradle-7.4.2/caches/transforms-3/91aacb2ad29e4058285ab89b91953e58/transformed/jetified-kotlin-stdlib-common-1.4.21.jar;C:/Enviroment/gradle-7.4.2/caches/transforms-3/283f41a842d27c7dbc4f628ac7f27e1b/transformed/jetified-annotations-13.0.jar;C:/Enviroment/Android/Sdk/platforms/android-31/android.jar;C:/Enviroment/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="openCVLib_debug" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="languageVersion" value="1.4" />
+          <option name="apiVersion" value="1.4" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/java/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/java/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../openCVLib/java/res;file://$MODULE_DIR$/../../../openCVLib/src/debug/res;file://$MODULE_DIR$/../../../openCVLib/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../openCVLib/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../openCVLib/src/androidTest/res;file://$MODULE_DIR$/../../../openCVLib/src/androidTestDebug/res;file://$MODULE_DIR$/../../../openCVLib/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../openCVLib/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../openCVLib/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../openCVLib/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../openCVLib">
+      <excludeFolder url="file://$MODULE_DIR$/../../../openCVLib/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../openCVLib/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../openCVLib/.cxx" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../openCVLib/.externalNativeBuild" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

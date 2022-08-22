@@ -1,0 +1,1 @@
+C:\Users\Michael Ho\yukkei-workspace\LooMotion\LoomoVital\openCVLib\build\intermediates\cxx\RelWithDebInfo\3h226548\obj\arm64-v8a

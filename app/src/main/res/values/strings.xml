@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoomoVital</string>
+
+    <string name="preview">Pose Detection:</string>
+    <string name="show_from_frame_listener">Heart Rate Detection:</string>
+    <string name="surface_view_example">Loomo Vital Demo:</string>
+    <string name="screenshot_button">Screen shot</string>
+
+    <string name="title_activity_heart_rate_detect">HeartRateDetect</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="debug">Welcome!</string>
+</resources>

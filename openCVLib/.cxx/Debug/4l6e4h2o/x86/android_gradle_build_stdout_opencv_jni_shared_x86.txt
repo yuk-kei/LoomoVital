@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Michael Ho\yukkei-workspace\LooMotion\LoomoVital\openCVLib\.cxx\Debug\4l6e4h2o\x86'
+ninja: no work to do.

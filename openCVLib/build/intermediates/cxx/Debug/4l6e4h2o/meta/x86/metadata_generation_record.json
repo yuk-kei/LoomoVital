@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 22 min SDK version: x86",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1558393199
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\.cxx\\Debug\\4l6e4h2o\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 463163682
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Michael Ho\\yukkei-workspace\\LooMotion\\LoomoVital\\openCVLib\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -638778031
+  }
+]

@@ -1,0 +1,3 @@
+C:/Users/Michael Ho/yukkei-workspace/OpenCV/LoomoVital/openCVLib/.cxx/Debug/6666134s/armeabi-v7a/CMakeFiles/opencv_jni_shared.dir
+C:/Users/Michael Ho/yukkei-workspace/OpenCV/LoomoVital/openCVLib/.cxx/Debug/6666134s/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Michael Ho/yukkei-workspace/OpenCV/LoomoVital/openCVLib/.cxx/Debug/6666134s/armeabi-v7a/CMakeFiles/rebuild_cache.dir

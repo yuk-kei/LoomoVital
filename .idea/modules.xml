@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LoomoVital.iml" filepath="$PROJECT_DIR$/.idea/modules/LoomoVital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoomoVital.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoomoVital.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoomoVital.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoomoVital.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoomoVital.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoomoVital.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoomoVital.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoomoVital.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLib/LoomoVital.openCVLib.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLib/LoomoVital.openCVLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLib/LoomoVital.openCVLib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLib/LoomoVital.openCVLib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLib/LoomoVital.openCVLib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLib/LoomoVital.openCVLib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLib/LoomoVital.openCVLib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLib/LoomoVital.openCVLib.unitTest.iml" />
+    </modules>
+  </component>
+</project>
